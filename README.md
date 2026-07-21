@@ -34,7 +34,7 @@ the mac agent is free and detects your coding agents. the iphone app
 ## support
 
 found a bug? [open an issue](https://github.com/cantscroll/cantscroll/issues).
-anything else: support@cantscroll.com
+anything else: hello@cantscroll.com
 
 ## license
 
