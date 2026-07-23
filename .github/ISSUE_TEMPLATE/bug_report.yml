@@ -1,0 +1,48 @@
+name: Bug report
+description: Something in the cantscroll mac agent isn't working
+labels: ["bug"]
+body:
+  - type: markdown
+    attributes:
+      value: |
+        Thanks for the report. This repo is for the **mac agent**. For iPhone app
+        or billing issues, email hello@cantscroll.com instead.
+  - type: input
+    id: version
+    attributes:
+      label: cantscroll version
+      description: output of `cantscroll version`
+      placeholder: "0.1.18"
+    validations:
+      required: true
+  - type: input
+    id: macos
+    attributes:
+      label: macOS version
+      placeholder: "15.5 (Sequoia)"
+    validations:
+      required: true
+  - type: textarea
+    id: what
+    attributes:
+      label: What happened?
+      description: What did you expect, and what happened instead?
+    validations:
+      required: true
+  - type: textarea
+    id: repro
+    attributes:
+      label: Steps to reproduce
+      placeholder: |
+        1. ...
+        2. ...
+    validations:
+      required: false
+  - type: textarea
+    id: logs
+    attributes:
+      label: Relevant logs
+      description: from `cantscroll doctor`, or the agent log, if any
+      render: shell
+    validations:
+      required: false
