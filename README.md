@@ -2,7 +2,7 @@
 
 focus when you're coding.
 
-cantscroll watches for ai coding agents (claude code, cursor, devin, codex,
+cantscroll watches for ai coding agents (claude code, cursor, codex,
 antigravity) running on your mac. the moment one starts working, your
 paired iphone locks its distracting apps — instagram, tiktok, x, whatever
 you pick — until the session ends. no timers, no willpower.
