@@ -21,9 +21,9 @@ brew services start cantscroll/cantscroll/cantscroll
 then pair your iphone: `cantscroll pair` shows a qr code the cantscroll
 app scans to connect.
 
-the mac agent is free and detects your coding agents. the iphone app
-(app store link coming soon) is a subscription: $59.99/year with a
-3-day free trial, or $7.99/month.
+the mac agent is free and detects your coding agents. the iphone app is a
+subscription: $59.99/year with a 3-day free trial, or $7.99/month —
+[download on the app store](https://apps.apple.com/app/id6772840087).
 
 ## links
 
